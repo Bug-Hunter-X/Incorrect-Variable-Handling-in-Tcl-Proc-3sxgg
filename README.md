@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming related to incorrect variable handling within procedures. The `bug.tcl` file shows the flawed code, while `bugSolution.tcl` presents the corrected version.  The issue highlights the importance of understanding variable scoping and proper techniques for accessing variables within procedures.
